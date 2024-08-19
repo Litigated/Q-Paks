@@ -1,4 +1,3 @@
-cat <<EOL > README.md
 # Q-Paks
 
 Q-Paks is an application for Qubes OS, packaged for both Fedora and Debian-based systems. Q-Paks is a maintained fork of Micah F Lee’s Qubes Apps, which can be found [here](https://github.com/micahflee/qube-apps). All credit goes to Micah F Lee, if you wish to support him, may I suggest donating [here](https://semiphemeral.com/donate/) to his new [Semiphemeral](https://semiphemeral.com) project or buy his book [here](https://hacksandleaks.com/).
