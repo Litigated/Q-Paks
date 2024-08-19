@@ -1,7 +1,7 @@
 cat <<EOL > README.md
 # Q-Paks
 
-Q-Paks is an application for Qubes OS, packaged for both Fedora and Debian-based systems. Q-Paks is a maintained fork of Micah F Lee’s Qubes Apps, which can be found [here](https://github.com/micahflee/qube-apps). All credit goes to Micah F Lee, if you wish to support him, may I suggest donating [here](https://semiphemeral.com/donate/). to his new project  [Semiphemeral](https://semiphemeral.com)or buy his book [here](https://hacksandleaks.com/) .
+Q-Paks is an application for Qubes OS, packaged for both Fedora and Debian-based systems. Q-Paks is a maintained fork of Micah F Lee’s Qubes Apps, which can be found [here](https://github.com/micahflee/qube-apps). All credit goes to Micah F Lee, if you wish to support him, may I suggest donating [here](https://semiphemeral.com/donate/). to his new project  [Semiphemeral](https://semiphemeral.com) or buy his book [here](https://hacksandleaks.com/).
 
 After installing Q-Paks increase your AppVM or DispVM’s private storage size from 2GB to 10GB+, as some flatpaks would exceeds the default private storage.
 
