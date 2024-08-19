@@ -8,8 +8,8 @@ After installing Q-Paks increase your AppVM or DispVM’s private storage size f
 
 You can download the pre-built packages:
 
-- **Debian 12/Kicksecure 17/Whonix 17**: [Download .deb](https://github.com/litigated/Q-Paks/packages/debian/q-paks-0.2.deb)
-- **Fedora 40**: [Download .rpm](https://github.com/litigated/Q-Paks/packages/fedora/q-paks-0.2.rpm)
+- **Debian 12/Kicksecure 17/Whonix 17**: [Download .deb](https://github.com/Litigated/Q-Paks/blob/main/packages/debian/q-paks-0.2.deb)
+- **Fedora 40**: [Download .rpm](https://github.com/litigated/Q-Paks/blob/main/packages/fedora/q-paks-0.2.rpm)
 
 Note: the .deb package may work on other Debian based distributions. However, only Debian 12, Kicksecure 17 and Whonix 17  have been tested. 
 
