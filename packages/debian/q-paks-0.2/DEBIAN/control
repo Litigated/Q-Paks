@@ -1,0 +1,10 @@
+Package: q-paks
+Version: 0.2
+Section: utils
+Priority: optional
+Architecture: all
+Depends: python3, python3-pyqt5, flatpak, xterm
+Maintainer: Litigated <contact@litigated.uk>
+Description: Q-Paks Application
+ A simple application to manage Flatpak apps in Qubes OS.
+Homepage: https://www.litigated.uk

@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Q-Paks
+Exec=/usr/local/bin/q-paks
+Icon=q-paks
+Type=Application
+Terminal=false
+Categories=Utility;
