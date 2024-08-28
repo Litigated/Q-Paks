@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=0.2.1
+Name=Q-Paks
+Comment=Manage your Flatpak applications
+Exec=q-paks
+Icon=q-paks
+Terminal=false
+Type=Application
+Categories=Utility;
